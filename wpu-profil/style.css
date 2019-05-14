@@ -1,0 +1,29 @@
+body {
+    margin-top: 50px;
+
+}
+
+.jumbotron img {
+    width: 25%;
+}
+
+section {
+    min-height: 420px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top: 12px;
+}
+
+.ig {
+    width: 100px;
+    height: 100px;
+    float: left;
+    overflow: hidden;
+}
+
+
+.ig .gm {
+    width: 100px;
+}

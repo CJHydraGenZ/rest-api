@@ -1,0 +1,33 @@
+[{
+
+        "nama": "Cahya",
+        "umur": 20,
+        "nim": "170030390",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembingbing": {
+            "pembingbing1": "Dyna",
+            "pembingbing2": "Aya"
+        }
+
+    },
+    {
+
+        "nama": "Cahya",
+        "umur": 20,
+        "nim": "170030390",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembingbing": {
+            "pembingbing1": "Dyna",
+            "pembingbing2": "Aya"
+        }
+
+    }
+]
